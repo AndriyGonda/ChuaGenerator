@@ -27,7 +27,7 @@ double h(double x)
   else L = (2.*x-3.)/7.;
   return  L;
 }
-/** The main caclulation function for f(x,y,t) = sin(x+t)*cos(y+t) */
+/** The main caclulation function  */
 void calculate(void);
 
 /** Change viewing volume and viewport.  Called when window is resized*/
